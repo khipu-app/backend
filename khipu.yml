@@ -72,6 +72,24 @@ components:
           type: integer
           format: int64
           minimum: 0
+    request:
+      type: object
+      properties:
+        time:
+          description: POSIX formatted time (in seconds)
+          type: integer
+          format: int64
+        url:
+          description: internal server URL of a request (absolute path)
+          type: string
+          maxLength: 1024
+    permission:
+      type: object
+      properties:
+        granted:
+          description: POSIX formatted time (in seconds)
+          type: boolean
+          default: false
 
 paths:        
   /auth:
@@ -80,6 +98,57 @@ paths:
       responses:
         '200':
           description: OK
+    get:
+      requestBody:
+        description: Permission payload
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/request'
+      responses:
+        '200':
+          description: OK
+          headers:
+            Authorization:
+              description: API token from session object
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/permission'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '401':
+          description: Unauthorized
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '403':
+          description: Forbidden
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '429':
+          description: Too Many Requests
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+                
     post:
       requestBody:
         description: Authentication payload
