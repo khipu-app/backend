@@ -98,7 +98,7 @@ components:
         granted:
           type: boolean
     userPermissions:
-      description: a list of permissions for user group
+      description: a list of permissions by user group
       type: object
       additionalProperties:
         type: array
