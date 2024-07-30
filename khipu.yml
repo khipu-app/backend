@@ -45,8 +45,10 @@ components:
       type: object
       properties:
         email:
+          description: user's email
           type: string
         pass:
+          description: user's password
           type: string
     session:
       type: object
