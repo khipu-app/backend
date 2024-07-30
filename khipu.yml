@@ -18,13 +18,27 @@ components:
     error:
       type: object
       properties:
+        time:
+          description: POSIX formatted time (in seconds)
+          type: integer
+          format: int64
+        url:
+          description: internal server URL of a request (absolute path)
+          type: string
+          maxLength: 1024
+        ip:
+          description: user client IP address
+          type: string
         code:
+          description: code of error
           type: integer
           format: int64
         description:
+          description: human readable error description
           type: string
           maxLength: 4096
         link:
+          description: link to documentation with error detailed description
           type: string
           maxLength: 4096
     credentials:
