@@ -1,0 +1,14 @@
+openapi: '3.0.3'
+info:
+  title: Khipu API
+  description: Backend API is based on microservices architecture. Each path is processed by one microservice.
+  contact:
+    name: Khipu App
+    url: https://github.com/khipu-app/backend
+    email: dev@khipu.app
+  license:
+    name: GPL-3.0 license
+  version: '0.1.0'
+
+servers:
+  - url: https://api.khipu.app/v1
