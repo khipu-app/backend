@@ -90,12 +90,21 @@ components:
           type: string
           maxLength: 1024
     permission:
+      description: a single permission for an operation
       type: object
       properties:
+        operation:
+          type: string
         granted:
-          description: POSIX formatted time (in seconds)
           type: boolean
-          default: false
+    userPermissions:
+      description: a list of permissions for user group
+      type: object
+      additionalProperties:
+        type: array
+        items:
+          type: object
+          $ref: '#/components/schemas/permission'
 
 paths:        
   /auth:
@@ -108,7 +117,7 @@ paths:
       security:
         - JWT: []
       requestBody:
-        description: Permission payload
+        description: Permissions payload
         required: true
         content:
           application/json:
@@ -120,7 +129,8 @@ paths:
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/permission'
+                type: object
+                $ref: '#/components/schemas/userPermissions'
         '400':
           description: Bad request
           content:
