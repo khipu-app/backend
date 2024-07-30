@@ -1,0 +1,104 @@
+openapi: '3.0.3'
+info:
+  title: Khipu API
+  description: Backend API is based on microservices architecture. Each path is processed by one microservice.
+  contact:
+    name: Khipu App
+    url: https://github.com/khipu-app/backend
+    email: dev@khipu.app
+  license:
+    name: GPL-3.0 license
+  version: '0.1.0'
+
+servers:
+  - url: https://api.khipu.app/v1
+
+components:
+  schemas:
+    error:
+      type: object
+      properties:
+        code:
+          type: integer
+          format: int64
+        description:
+          type: string
+          maxLength: 4096
+        link:
+          type: string
+          maxLength: 4096
+    credentials:
+      type: object
+      properties:
+        email:
+          type: string
+        pass:
+          type: string
+    session:
+      type: object
+      properties:
+        id:
+          type: integer
+          format: int64
+          minimum: 1
+        token:
+          type: string
+          maxLength: 1024
+        duration:
+          description: POSIX formatted time (in seconds)
+          type: integer
+          format: int64
+          minimum: 60
+        expired:
+          description: POSIX formatted date and time (in seconds)
+          type: integer
+          format: int64
+          minimum: 0
+
+paths:        
+  /auth:
+    description: User authentication
+    options:
+      responses:
+        '200':
+          description: OK
+    post:
+      requestBody:
+        description: Authentication payload
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/credentials'
+            
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/session'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '403':
+          description: Forbidden
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '429':
+          description: Too Many Requests
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
