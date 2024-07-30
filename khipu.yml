@@ -54,10 +54,12 @@ components:
       type: object
       properties:
         id:
+          description: session ID
           type: integer
           format: int64
           minimum: 1
         token:
+          description: token of user's session
           type: string
           maxLength: 1024
         duration:
