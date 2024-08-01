@@ -136,10 +136,12 @@ paths:
   /auth:
     description: User authentication
     options:
+      description: Method for passing of CORS policy
       responses:
         '200':
           description: OK
     get:
+      description: Method for getting user's session validating result
       security:
         - JWT: []
       requestBody:
@@ -188,6 +190,7 @@ paths:
               schema:
                 $ref: '#/components/schemas/error'
     post:
+      description: Creating a user's session
       requestBody:
         description: Authentication payload
         required: true
@@ -227,6 +230,7 @@ paths:
               schema:
                 $ref: '#/components/schemas/error'
     patch:
+      description: Updating a user's session token due to security reason
       security:
         - JWT: []
       requestBody:
