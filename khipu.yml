@@ -136,12 +136,12 @@ paths:
   /auth:
     description: User authentication
     options:
-      description: Method for passing of CORS policy
+      description: Passing of CORS policy
       responses:
         '200':
           description: OK
     get:
-      description: Method for getting user's session validating result
+      description: Getting user's session validating result
       security:
         - JWT: []
       requestBody:
