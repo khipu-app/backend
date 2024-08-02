@@ -1,0 +1,111 @@
+@startuml
+left to right direction
+
+cloud {
+  [Web App] #Yellow
+  [Windows App] #Cyan
+  [GUI Linux App] #LightSalmon
+  [Shell Linux App] #LightSalmon
+  [macOS App] #LightGoldenRodYellow
+  [iOS App] #LightGoldenRodYellow
+  [iPadOS App] #LightGoldenRodYellow
+  [Android App] #LightGreen
+}
+
+frame "Routing by Nginx" {
+  component [B3 Common] #GreenYellow
+  component [B7 Auth] #GreenYellow
+  component [B7 Router] #GreenYellow
+}
+
+frame "User Management Microservices" {
+  component [BE Auth] #LightCyan
+  component [BE User] #LightCyan
+  component [BE Group] #LightCyan
+}
+
+frame "Content Management Microservices" {
+  component [BE Lib] #LightCyan
+  component [BE Project] #LightCyan
+  component [BE File] #LightCyan
+  component [BE VCS] #LightCyan
+  component [BE Timer] #LightCyan
+  component [BE Bookmark] #LightCyan
+  component [BE Indicator] #LightCyan
+}
+
+database "khipu" {
+  frame "User Management Entities" {
+    [User] #LightBlue
+    [Group] #LightBlue
+    [Permission] #LightBlue
+    [UserSession] #LightBlue
+    [GroupPermission] #LightBlue
+    [GroupedUser] #LightBlue
+  }
+  frame "Content Management Entities" {
+    [Lib] #LightBlue
+    [Project] #LightBlue
+    [File] #LightBlue
+    [Timer] #LightBlue
+    [Bookmark] #LightBlue
+    [Indicator] #LightBlue
+  }
+}
+
+node "File System" {
+  component [File Storage]
+}
+
+[Web App] ..> [B3 Common] : use
+[Windows App] ..> [B3 Common] : use
+[GUI Linux App] ..> [B3 Common] : use
+[Shell Linux App] ..> [B3 Common] : use
+[macOS App] ..> [B3 Common] : use
+[Android OS App] ..> [B3 Common] : use
+[iOS App] ..> [B3 Common] : use
+[iPadOS App] ..> [B3 Common] : use
+
+[B7 Router] ..> [File Storage] : use file system
+
+[B7 Router] <.. [B3 Common] : reverse proxy
+
+[B7 Auth] <.. [B3 Common] : reverse proxy
+[B7 Auth] ..> [BE Auth] : reverse proxy
+[BE Auth] ..> [B7 Router] : reverse proxy
+
+[B7 Router] ..> [BE User] : reverse proxy
+[B7 Router] ..> [BE Group] : reverse proxy
+
+[B7 Router] ..> [BE Lib] : reverse proxy
+[B7 Router] ..> [BE Project] : reverse proxy
+[B7 Router] ..> [BE File] : reverse proxy
+[B7 Router] ..> [BE VCS] : reverse proxy
+[B7 Router] ..> [BE Timer] : reverse proxy
+[B7 Router] ..> [BE Bookmark] : reverse proxy
+[B7 Router] ..> [BE Indicator] : reverse proxy
+
+[BE Auth] ..> [User] : use SQL
+[BE Auth] ..> [Group] : use SQL
+[BE Auth] ..> [Permission] : use SQL
+[BE Auth] ..> [GroupedUser] : use SQL
+[BE Auth] ..> [GroupPermission] : use SQL
+[BE Auth] --> [UserSession] : use SQL
+
+[BE User] --> [User] : use SQL
+[BE User] --> [GroupedUser] : use SQL
+[BE User] ..> [Group] : use SQL
+
+[BE Group] --> [Group] : use SQL
+[BE Group] --> [GroupPermission] : use SQL
+
+[BE Lib] --> [Lib] : use SQL
+[BE Project] --> [Project] : use SQL
+[BE File] --> [File] : use SQL
+[BE Timer] --> [Timer] : use SQL
+[BE Bookmark] --> [Bookmark] : use SQL
+[BE Indicator] --> [Indicator] : use SQL
+
+[BE VCS] --> [File Storage] : use file system
+
+@enduml
