@@ -1,0 +1,2886 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentStyleType="text/css"
+   height="1929px"
+   preserveAspectRatio="none"
+   style="width:1027px;height:1929px;background:#FFFFFF;"
+   version="1.1"
+   viewBox="0 0 1027 1929"
+   width="1027px"
+   zoomAndPan="magnify"
+   id="svg676"
+   sodipodi:docname="cd-be.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview678"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.76489467"
+     inkscape:cx="462.15513"
+     inkscape:cy="853.71231"
+     inkscape:window-width="2048"
+     inkscape:window-height="2304"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="cluster_##2" />
+  <defs
+     id="defs2" />
+  <g
+     id="g674"
+     transform="translate(-7.011737,-8.4140844)">
+    <g
+       id="cluster_##2"
+       transform="matrix(0,1.3073711,-1.3235618,0,984.5622,26.29304)">
+      <path
+         d="m 63.573608,52.446937 c 18.6263,-39.723093 39.002012,-41.017994 65.885332,-9.566344 29.88897,-36.9087746 52.42414,-26.843091 69.98873,13.902382 4.42958,-0.425133 5.69315,3.359862 3.69764,7.114254 18.41971,11.993834 19.49251,26.656676 1.02247,39.835601 19.88915,13.87138 16.09693,28.38371 0.41272,42.68553 21.63365,15.18048 19.13486,33.18598 -0.54288,47.77892 18.64472,9.71555 16.60192,29.68521 0.79149,40.24883 18.23824,14.78355 19.50315,30.03224 -2.00392,42.46851 20.33093,13.96989 22.5139,37.2959 -1.09113,50.0674 17.84206,12.56187 17.87103,30.8076 1.91631,45.16421 19.65852,12.57658 17.74105,27.96888 2.24009,42.84614 19.93528,14.1807 17.87147,32.19351 -1.83138,44.32435 13.42677,11.45379 13.72302,26.09423 -0.76127,36.82577 16.83907,11.16137 17.89194,32.37022 0.90841,44.39766 19.79037,16.93812 17.84956,37.39831 -3.89877,50.30731 20.22777,12.758 21.78794,30.21486 0.8039,43.91702 13.66778,18.50284 13.90378,33.54912 -7.92117,44.06694 1.30683,0.83706 1.67898,1.87164 0.44098,3.15394 -13.79249,41.38322 -45.55816,43.5831 -67.3925,8.9197 -32.582815,38.13767 -61.502232,32.68464 -76.076721,-19.07419 2.235711,-0.0909 2.908748,0.86607 2.151145,3.25275 C 33.91259,662.35893 32.476676,647.06054 50.891562,632.78723 30.934653,617.39713 36.585073,600.265 54.440987,588.6837 34.890993,580.85099 30.176335,560.34259 49.231988,546.53801 29.167986,529.31357 30.612392,508.11782 54.475492,496.67483 37.10954,487.98255 32.267497,471.83 49.376267,457.51858 32.288683,442.54772 36.833674,426.9409 53.045478,415.61972 28.710653,401.10009 30.614091,384.20167 48.526858,364.96517 29.88116,346.65475 33.706898,333.2097 53.983833,320.93735 37.666009,309.53806 34.241734,295.47566 49.562115,279.81834 29.668853,262.28378 34.816976,249.15786 52.696847,234.92445 35.087299,221.87423 34.744121,207.19509 51.888916,193.30051 33.427724,182.13794 30.221389,164.28275 50.125557,151.11312 30.950207,134.63504 29.719807,116.70114 51.678396,101.84568 32.961363,86.426384 29.734914,60.027128 56.419425,49.78243 c 3.355443,-3.516774 6.354477,-2.406987 7.154183,2.664507"
+         fill="none"
+         style="stroke:#181818;stroke-width:0.945514"
+         id="path4" />
+    </g>
+    <!--cluster Routing by Nginx-->
+    <g
+       id="cluster_Routing by Nginx"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="none"
+         height="178"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:1"
+         width="494"
+         x="43.9967"
+         y="710.80719"
+         id="rect7" />
+      <path
+         d="m 179.9967,710.8072 v 9.4882 l -10,10 h -126"
+         fill="none"
+         style="stroke:#181818;stroke-width:1"
+         id="path9" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         font-weight="bold"
+         lengthAdjust="spacing"
+         textLength="126"
+         x="46.9967"
+         y="725.34229"
+         id="text11">Routing by Nginx</text>
+    </g>
+    <!--cluster User Management Microservices-->
+    <g
+       id="cluster_User Management Microservices"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="none"
+         height="259"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:1"
+         width="248"
+         x="336.4967"
+         y="912.80719"
+         id="rect14" />
+      <path
+         d="m 578.4967,912.8072 v 9.4882 l -10,10 h -232"
+         fill="none"
+         style="stroke:#181818;stroke-width:1"
+         id="path16" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         font-weight="bold"
+         lengthAdjust="spacing"
+         textLength="232"
+         x="339.4967"
+         y="927.34229"
+         id="text18">User Management Microservices</text>
+    </g>
+    <!--cluster Content Management Microservices-->
+    <g
+       id="cluster_Content Management Microservices"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="none"
+         height="583"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:1"
+         width="273"
+         x="323.9967"
+         y="1195.8073"
+         id="rect21" />
+      <path
+         d="m 590.9967,1195.8072 v 9.4882 l -10,10 h -257"
+         fill="none"
+         style="stroke:#181818;stroke-width:1"
+         id="path23" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         font-weight="bold"
+         lengthAdjust="spacing"
+         textLength="257"
+         x="326.9967"
+         y="1210.3423"
+         id="text25">Content Management Microservices</text>
+    </g>
+    <!--cluster khipu-->
+    <g
+       id="cluster_khipu"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 732.9967,621.8072 c 0,-10 139,-10 139,-10 0,0 139,0 139,10 v 1090 c 0,10 -139,10 -139,10 0,0 -139,0 -139,-10 v -1090"
+         fill="none"
+         style="stroke:#181818;stroke-width:1"
+         id="path28" />
+      <path
+         d="m 732.9967,621.8072 c 0,10 139,10 139,10 0,0 139,0 139,-10"
+         fill="none"
+         style="stroke:#181818;stroke-width:1"
+         id="path30" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         font-weight="bold"
+         lengthAdjust="spacing"
+         textLength="41"
+         x="851.4967"
+         y="647.34229"
+         id="text32">khipu</text>
+    </g>
+    <!--cluster User Management Entities-->
+    <g
+       id="cluster_User Management Entities"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="none"
+         height="502"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:1"
+         width="205"
+         x="769.4967"
+         y="669.80719"
+         id="rect35" />
+      <path
+         d="m 968.4967,669.8072 v 9.4882 l -10,10 h -189"
+         fill="none"
+         style="stroke:#181818;stroke-width:1"
+         id="path37" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         font-weight="bold"
+         lengthAdjust="spacing"
+         textLength="189"
+         x="772.4967"
+         y="684.34229"
+         id="text39">User Management Entities</text>
+    </g>
+    <!--cluster Content Management Entities-->
+    <g
+       id="cluster_Content Management Entities"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="none"
+         height="502"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:1"
+         width="230"
+         x="756.9967"
+         y="1195.8073"
+         id="rect42" />
+      <path
+         d="m 980.9967,1195.8072 v 9.4882 l -10,10 h -214"
+         fill="none"
+         style="stroke:#181818;stroke-width:1"
+         id="path44" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         font-weight="bold"
+         lengthAdjust="spacing"
+         textLength="214"
+         x="759.9967"
+         y="1210.3423"
+         id="text46">Content Management Entities</text>
+    </g>
+    <!--cluster File System-->
+    <g
+       id="cluster_File System"
+       transform="translate(5.6093896,-172.48873)">
+      <polygon
+         fill="none"
+         points="951.4967,1748.8072 951.4967,1840.8072 941.4967,1850.8072 792.4967,1850.8072 792.4967,1758.8072 802.4967,1748.8072 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon49" />
+      <line
+         style="stroke:#181818;stroke-width:1"
+         x1="941.4967"
+         x2="951.4967"
+         y1="1758.8073"
+         y2="1748.8073"
+         id="line51" />
+      <line
+         style="stroke:#181818;stroke-width:1"
+         x1="792.4967"
+         x2="941.4967"
+         y1="1758.8073"
+         y2="1758.8073"
+         id="line53" />
+      <line
+         style="stroke:#181818;stroke-width:1"
+         x1="941.4967"
+         x2="941.4967"
+         y1="1758.8073"
+         y2="1850.8073"
+         id="line55" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         font-weight="bold"
+         lengthAdjust="spacing"
+         textLength="83"
+         x="826.4967"
+         y="1775.3423"
+         id="text57">File System</text>
+    </g>
+    <!--entity Web App-->
+    <g
+       id="elem_Web App"
+       transform="translate(531.52954,-93.600707)">
+      <rect
+         fill="#ffff00"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="101"
+         x="62.9967"
+         y="219.5672"
+         id="rect60" />
+      <rect
+         fill="#ffff00"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="143.9967"
+         y="224.5672"
+         id="rect62" />
+      <rect
+         fill="#ffff00"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="141.9967"
+         y="226.5672"
+         id="rect64" />
+      <rect
+         fill="#ffff00"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="141.9967"
+         y="230.5672"
+         id="rect66" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="61"
+         x="77.996696"
+         y="253.10229"
+         id="text68">Web App</text>
+    </g>
+    <!--entity Windows App-->
+    <g
+       id="elem_Windows App"
+       transform="translate(435.73694,-91.722421)">
+      <rect
+         fill="#00ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="133"
+         x="46.9967"
+         y="300.5672"
+         id="rect71" />
+      <rect
+         fill="#00ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="159.9967"
+         y="305.5672"
+         id="rect73" />
+      <rect
+         fill="#00ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="157.9967"
+         y="307.5672"
+         id="rect75" />
+      <rect
+         fill="#00ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="157.9967"
+         y="311.5672"
+         id="rect77" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="93"
+         x="61.9967"
+         y="334.10229"
+         id="text79">Windows App</text>
+    </g>
+    <!--entity GUI Linux App-->
+    <g
+       id="elem_GUI Linux App"
+       transform="translate(345.5792,-255.13333)">
+      <rect
+         fill="#ffa07a"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="138"
+         x="44.4967"
+         y="381.5672"
+         id="rect82" />
+      <rect
+         fill="#ffa07a"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="162.4967"
+         y="386.5672"
+         id="rect84" />
+      <rect
+         fill="#ffa07a"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="160.4967"
+         y="388.5672"
+         id="rect86" />
+      <rect
+         fill="#ffa07a"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="160.4967"
+         y="392.5672"
+         id="rect88" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="98"
+         x="59.4967"
+         y="415.10229"
+         id="text90">GUI Linux App</text>
+    </g>
+    <!--entity Shell Linux App-->
+    <g
+       id="elem_Shell Linux App"
+       transform="translate(238.51689,-253.25504)">
+      <rect
+         fill="#ffa07a"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="147"
+         x="39.9967"
+         y="462.5672"
+         id="rect93" />
+      <rect
+         fill="#ffa07a"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="166.9967"
+         y="467.5672"
+         id="rect95" />
+      <rect
+         fill="#ffa07a"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="164.9967"
+         y="469.5672"
+         id="rect97" />
+      <rect
+         fill="#ffa07a"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="164.9967"
+         y="473.5672"
+         id="rect99" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="107"
+         x="54.9967"
+         y="496.10229"
+         id="text101">Shell Linux App</text>
+    </g>
+    <!--entity macOS App-->
+    <g
+       id="elem_macOS App"
+       transform="translate(129.57628,-420.42252)">
+      <rect
+         fill="#fafad2"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="119"
+         x="53.9967"
+         y="543.5672"
+         id="rect104" />
+      <rect
+         fill="#fafad2"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="152.9967"
+         y="548.5672"
+         id="rect106" />
+      <rect
+         fill="#fafad2"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="150.9967"
+         y="550.5672"
+         id="rect108" />
+      <rect
+         fill="#fafad2"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="150.9967"
+         y="554.5672"
+         id="rect110" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="79"
+         x="68.996696"
+         y="577.10229"
+         id="text112">macOS App</text>
+    </g>
+    <!--entity iOS App-->
+    <g
+       id="elem_iOS App"
+       transform="translate(50.68826,-416.66595)">
+      <rect
+         fill="#fafad2"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="95"
+         x="65.996696"
+         y="624.5672"
+         id="rect115" />
+      <rect
+         fill="#fafad2"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="140.9967"
+         y="629.5672"
+         id="rect117" />
+      <rect
+         fill="#fafad2"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="138.9967"
+         y="631.5672"
+         id="rect119" />
+      <rect
+         fill="#fafad2"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="138.9967"
+         y="635.5672"
+         id="rect121" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="55"
+         x="80.996696"
+         y="658.10229"
+         id="text123">iOS App</text>
+    </g>
+    <!--entity iPadOS App-->
+    <g
+       id="elem_iPadOS App"
+       transform="translate(702.45359,67.93192)">
+      <rect
+         fill="#fafad2"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="120"
+         x="53.4967"
+         y="57.5672"
+         id="rect126" />
+      <rect
+         fill="#fafad2"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="153.4967"
+         y="62.5672"
+         id="rect128" />
+      <rect
+         fill="#fafad2"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="151.4967"
+         y="64.5672"
+         id="rect130" />
+      <rect
+         fill="#fafad2"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="151.4967"
+         y="68.5672"
+         id="rect132" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="80"
+         x="68.496696"
+         y="91.102303"
+         id="text134">iPadOS App</text>
+    </g>
+    <!--entity Android App-->
+    <g
+       id="elem_Android App"
+       transform="translate(636.71357,66.05362)">
+      <rect
+         fill="#90ee90"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="151"
+         x="37.9967"
+         y="138.5672"
+         id="rect137" />
+      <rect
+         fill="#90ee90"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="168.9967"
+         y="143.5672"
+         id="rect139" />
+      <rect
+         fill="#90ee90"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="166.9967"
+         y="145.5672"
+         id="rect141" />
+      <rect
+         fill="#90ee90"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="166.9967"
+         y="149.5672"
+         id="rect143" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="111"
+         x="52.9967"
+         y="172.10229"
+         id="text145">Android OS App</text>
+    </g>
+    <!--entity B3 Common-->
+    <g
+       id="elem_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#adff2f"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="124"
+         x="397.9967"
+         y="745.5672"
+         id="rect148" />
+      <rect
+         fill="#adff2f"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="501.9967"
+         y="750.5672"
+         id="rect150" />
+      <rect
+         fill="#adff2f"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="499.9967"
+         y="752.5672"
+         id="rect152" />
+      <rect
+         fill="#adff2f"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="499.9967"
+         y="756.5672"
+         id="rect154" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="84"
+         x="412.9967"
+         y="779.10229"
+         id="text156">B3 Common</text>
+    </g>
+    <!--entity B7 Auth-->
+    <g
+       id="elem_B7 Auth"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#adff2f"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="94"
+         x="66.496696"
+         y="745.5672"
+         id="rect159" />
+      <rect
+         fill="#adff2f"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="140.4967"
+         y="750.5672"
+         id="rect161" />
+      <rect
+         fill="#adff2f"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="138.4967"
+         y="752.5672"
+         id="rect163" />
+      <rect
+         fill="#adff2f"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="138.4967"
+         y="756.5672"
+         id="rect165" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="54"
+         x="81.496696"
+         y="779.10229"
+         id="text167">B7 Auth</text>
+    </g>
+    <!--entity B7 Router-->
+    <g
+       id="elem_B7 Router"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#adff2f"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="107"
+         x="59.9967"
+         y="826.5672"
+         id="rect170" />
+      <rect
+         fill="#adff2f"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="146.9967"
+         y="831.5672"
+         id="rect172" />
+      <rect
+         fill="#adff2f"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="144.9967"
+         y="833.5672"
+         id="rect174" />
+      <rect
+         fill="#adff2f"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="144.9967"
+         y="837.5672"
+         id="rect176" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="67"
+         x="74.996696"
+         y="860.10229"
+         id="text178">B7 Router</text>
+    </g>
+    <!--entity BE Auth-->
+    <g
+       id="elem_BE Auth"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="93"
+         x="413.4967"
+         y="1028.5673"
+         id="rect181" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="486.4967"
+         y="1033.5673"
+         id="rect183" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="484.4967"
+         y="1035.5673"
+         id="rect185" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="484.4967"
+         y="1039.5673"
+         id="rect187" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="53"
+         x="428.4967"
+         y="1062.1023"
+         id="text189">BE Auth</text>
+    </g>
+    <!--entity BE User-->
+    <g
+       id="elem_BE User"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="91"
+         x="414.4967"
+         y="947.5672"
+         id="rect192" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="485.4967"
+         y="952.5672"
+         id="rect194" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="483.4967"
+         y="954.5672"
+         id="rect196" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="483.4967"
+         y="958.5672"
+         id="rect198" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="51"
+         x="429.4967"
+         y="981.10229"
+         id="text200">BE User</text>
+    </g>
+    <!--entity BE Group-->
+    <g
+       id="elem_BE Group"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="103"
+         x="408.4967"
+         y="1109.5673"
+         id="rect203" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="491.4967"
+         y="1114.5673"
+         id="rect205" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="489.4967"
+         y="1116.5673"
+         id="rect207" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="489.4967"
+         y="1120.5673"
+         id="rect209" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="63"
+         x="423.4967"
+         y="1143.1023"
+         id="text211">BE Group</text>
+    </g>
+    <!--entity BE Lib-->
+    <g
+       id="elem_BE Lib"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="80"
+         x="419.9967"
+         y="1230.5673"
+         id="rect214" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="479.9967"
+         y="1235.5673"
+         id="rect216" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="477.9967"
+         y="1237.5673"
+         id="rect218" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="477.9967"
+         y="1241.5673"
+         id="rect220" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="40"
+         x="434.9967"
+         y="1264.1023"
+         id="text222">BE Lib</text>
+    </g>
+    <!--entity BE Project-->
+    <g
+       id="elem_BE Project"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="107"
+         x="406.4967"
+         y="1311.5673"
+         id="rect225" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="493.4967"
+         y="1316.5673"
+         id="rect227" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="491.4967"
+         y="1318.5673"
+         id="rect229" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="491.4967"
+         y="1322.5673"
+         id="rect231" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="67"
+         x="421.4967"
+         y="1345.1023"
+         id="text233">BE Project</text>
+    </g>
+    <!--entity BE File-->
+    <g
+       id="elem_BE File"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="84"
+         x="417.9967"
+         y="1392.5673"
+         id="rect236" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="481.9967"
+         y="1397.5673"
+         id="rect238" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="479.9967"
+         y="1399.5673"
+         id="rect240" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="479.9967"
+         y="1403.5673"
+         id="rect242" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="44"
+         x="432.9967"
+         y="1426.1023"
+         id="text244">BE File</text>
+    </g>
+    <!--entity BE VCS-->
+    <g
+       id="elem_BE VCS"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="87"
+         x="416.4967"
+         y="1716.5673"
+         id="rect247" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="483.4967"
+         y="1721.5673"
+         id="rect249" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="481.4967"
+         y="1723.5673"
+         id="rect251" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="481.4967"
+         y="1727.5673"
+         id="rect253" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="47"
+         x="431.4967"
+         y="1750.1023"
+         id="text255">BE VCS</text>
+    </g>
+    <!--entity BE Timer-->
+    <g
+       id="elem_BE Timer"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="100"
+         x="409.9967"
+         y="1473.5673"
+         id="rect258" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="489.9967"
+         y="1478.5673"
+         id="rect260" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="487.9967"
+         y="1480.5673"
+         id="rect262" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="487.9967"
+         y="1484.5673"
+         id="rect264" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="60"
+         x="424.9967"
+         y="1507.1023"
+         id="text266">BE Timer</text>
+    </g>
+    <!--entity BE Bookmark-->
+    <g
+       id="elem_BE Bookmark"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="129"
+         x="395.4967"
+         y="1554.5673"
+         id="rect269" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="504.4967"
+         y="1559.5673"
+         id="rect271" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="502.4967"
+         y="1561.5673"
+         id="rect273" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="502.4967"
+         y="1565.5673"
+         id="rect275" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="89"
+         x="410.4967"
+         y="1588.1023"
+         id="text277">BE Bookmark</text>
+    </g>
+    <!--entity BE Indicator-->
+    <g
+       id="elem_BE Indicator"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#e0ffff"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="121"
+         x="399.4967"
+         y="1635.5673"
+         id="rect280" />
+      <rect
+         fill="#e0ffff"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="500.4967"
+         y="1640.5673"
+         id="rect282" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="498.4967"
+         y="1642.5673"
+         id="rect284" />
+      <rect
+         fill="#e0ffff"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="498.4967"
+         y="1646.5673"
+         id="rect286" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="81"
+         x="414.4967"
+         y="1669.1023"
+         id="text288">BE Indicator</text>
+    </g>
+    <!--entity User-->
+    <g
+       id="elem_User"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="71"
+         x="835.9967"
+         y="785.5672"
+         id="rect291" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="886.9967"
+         y="790.5672"
+         id="rect293" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="884.9967"
+         y="792.5672"
+         id="rect295" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="884.9967"
+         y="796.5672"
+         id="rect297" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="31"
+         x="850.9967"
+         y="819.10229"
+         id="text299">User</text>
+    </g>
+    <!--entity Group-->
+    <g
+       id="elem_Group"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="83"
+         x="829.9967"
+         y="1028.5673"
+         id="rect302" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="892.9967"
+         y="1033.5673"
+         id="rect304" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="890.9967"
+         y="1035.5673"
+         id="rect306" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="890.9967"
+         y="1039.5673"
+         id="rect308" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="43"
+         x="844.9967"
+         y="1062.1023"
+         id="text310">Group</text>
+    </g>
+    <!--entity Permission-->
+    <g
+       id="elem_Permission"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="115"
+         x="813.9967"
+         y="866.5672"
+         id="rect313" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="908.9967"
+         y="871.5672"
+         id="rect315" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="906.9967"
+         y="873.5672"
+         id="rect317" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="906.9967"
+         y="877.5672"
+         id="rect319" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="75"
+         x="828.9967"
+         y="900.10229"
+         id="text321">Permission</text>
+    </g>
+    <!--entity UserSession-->
+    <g
+       id="elem_UserSession"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="123"
+         x="809.9967"
+         y="947.5672"
+         id="rect324" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="912.9967"
+         y="952.5672"
+         id="rect326" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="910.9967"
+         y="954.5672"
+         id="rect328" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="910.9967"
+         y="958.5672"
+         id="rect330" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="83"
+         x="824.9967"
+         y="981.10229"
+         id="text332">UserSession</text>
+    </g>
+    <!--entity GroupPermission-->
+    <g
+       id="elem_GroupPermission"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="158"
+         x="792.4967"
+         y="1109.5673"
+         id="rect335" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="930.4967"
+         y="1114.5673"
+         id="rect337" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="928.4967"
+         y="1116.5673"
+         id="rect339" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="928.4967"
+         y="1120.5673"
+         id="rect341" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="118"
+         x="807.4967"
+         y="1143.1023"
+         id="text343">GroupPermission</text>
+    </g>
+    <!--entity GroupedUser-->
+    <g
+       id="elem_GroupedUser"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="131"
+         x="805.9967"
+         y="704.5672"
+         id="rect346" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="916.9967"
+         y="709.5672"
+         id="rect348" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="914.9967"
+         y="711.5672"
+         id="rect350" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="914.9967"
+         y="715.5672"
+         id="rect352" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="91"
+         x="820.9967"
+         y="738.10229"
+         id="text354">GroupedUser</text>
+    </g>
+    <!--entity Lib-->
+    <g
+       id="elem_Lib"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="60"
+         x="841.4967"
+         y="1230.5673"
+         id="rect357" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="881.4967"
+         y="1235.5673"
+         id="rect359" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="879.4967"
+         y="1237.5673"
+         id="rect361" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="879.4967"
+         y="1241.5673"
+         id="rect363" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="20"
+         x="856.4967"
+         y="1264.1023"
+         id="text365">Lib</text>
+    </g>
+    <!--entity Project-->
+    <g
+       id="elem_Project"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="87"
+         x="827.9967"
+         y="1311.5673"
+         id="rect368" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="894.9967"
+         y="1316.5673"
+         id="rect370" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="892.9967"
+         y="1318.5673"
+         id="rect372" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="892.9967"
+         y="1322.5673"
+         id="rect374" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="47"
+         x="842.9967"
+         y="1345.1023"
+         id="text376">Project</text>
+    </g>
+    <!--entity File-->
+    <g
+       id="elem_File"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="64"
+         x="839.4967"
+         y="1392.5673"
+         id="rect379" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="883.4967"
+         y="1397.5673"
+         id="rect381" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="881.4967"
+         y="1399.5673"
+         id="rect383" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="881.4967"
+         y="1403.5673"
+         id="rect385" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="24"
+         x="854.4967"
+         y="1426.1023"
+         id="text387">File</text>
+    </g>
+    <!--entity Timer-->
+    <g
+       id="elem_Timer"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="80"
+         x="831.4967"
+         y="1473.5673"
+         id="rect390" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="891.4967"
+         y="1478.5673"
+         id="rect392" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="889.4967"
+         y="1480.5673"
+         id="rect394" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="889.4967"
+         y="1484.5673"
+         id="rect396" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="40"
+         x="846.4967"
+         y="1507.1023"
+         id="text398">Timer</text>
+    </g>
+    <!--entity Bookmark-->
+    <g
+       id="elem_Bookmark"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="109"
+         x="816.9967"
+         y="1554.5673"
+         id="rect401" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="905.9967"
+         y="1559.5673"
+         id="rect403" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="903.9967"
+         y="1561.5673"
+         id="rect405" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="903.9967"
+         y="1565.5673"
+         id="rect407" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="69"
+         x="831.9967"
+         y="1588.1023"
+         id="text409">Bookmark</text>
+    </g>
+    <!--entity Indicator-->
+    <g
+       id="elem_Indicator"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#add8e6"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="101"
+         x="820.9967"
+         y="1635.5673"
+         id="rect412" />
+      <rect
+         fill="#add8e6"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="901.9967"
+         y="1640.5673"
+         id="rect414" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="899.9967"
+         y="1642.5673"
+         id="rect416" />
+      <rect
+         fill="#add8e6"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="899.9967"
+         y="1646.5673"
+         id="rect418" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="61"
+         x="835.9967"
+         y="1669.1023"
+         id="text420">Indicator</text>
+    </g>
+    <!--entity File Storage-->
+    <g
+       id="elem_File Storage"
+       transform="translate(5.6093896,-172.48873)">
+      <rect
+         fill="#f1f1f1"
+         height="46.4883"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5"
+         width="121"
+         x="810.9967"
+         y="1788.5673"
+         id="rect423" />
+      <rect
+         fill="#f1f1f1"
+         height="10"
+         style="stroke:#181818;stroke-width:0.5"
+         width="15"
+         x="911.9967"
+         y="1793.5673"
+         id="rect425" />
+      <rect
+         fill="#f1f1f1"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="909.9967"
+         y="1795.5673"
+         id="rect427" />
+      <rect
+         fill="#f1f1f1"
+         height="2"
+         style="stroke:#181818;stroke-width:0.5"
+         width="4"
+         x="909.9967"
+         y="1799.5673"
+         id="rect429" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="81"
+         x="825.9967"
+         y="1822.1023"
+         id="text431">File Storage</text>
+    </g>
+    <!--link Web App to B3 Common-->
+    <g
+       id="link_Web App_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 641.59271,345.24243 c 1.39934,36.87729 -2.04279,100.01146 -4.9644,153.04024 C 632.16485,638.99631 447.8791,669.2167 455.9691,739.3367"
+         fill="none"
+         id="Web App-to-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="ccc" />
+      <polygon
+         fill="#181818"
+         points="456.0837,740.3301 451.6516,736.8149 456.6567,745.2972 459.5989,735.898 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon435" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="22"
+         x="253.4967"
+         y="273.37549"
+         id="text437"
+         transform="translate(380.68686,283.93771)">use</text>
+    </g>
+    <!--link Windows App to B3 Common-->
+    <g
+       id="link_Windows App_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 542.72019,428.83014 c -0.31484,42.33215 14.06679,63.59147 15.03654,106.60377 C 559.17636,656.6489 439.1848,679.3446 452.7848,739.5546"
+         fill="none"
+         id="Windows App-to-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="ccc" />
+      <polygon
+         fill="#181818"
+         points="453.0051,740.53 448.2221,737.5096 454.1067,745.4072 456.0255,735.747 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon441" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="22"
+         x="253.4967"
+         y="357.37549"
+         id="text443"
+         transform="translate(304.97014,221.89206)">use</text>
+    </g>
+    <!--link GUI Linux App to B3 Common-->
+    <g
+       id="link_GUI Linux App_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 453.71915,345.95075 c -0.90904,73.94335 -3.37009,149.81536 -5.33103,205.55035 0.9672,89.6627 -7.05464,135.79084 -0.83572,188.0057"
+         fill="none"
+         id="GUI Linux App-to-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="ccc" />
+      <polygon
+         fill="#181818"
+         points="447.9282,740.4335 442.7183,738.2294 449.8067,745.0672 450.1322,735.2237 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon447" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="22"
+         x="253.4967"
+         y="442.37549"
+         id="text449"
+         transform="translate(204.0145,158.26899)">use</text>
+    </g>
+    <!--link Shell Linux App to B3 Common-->
+    <g
+       id="link_Shell Linux App_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 346.69609,428.01656 c 2.23541,82.78997 31.52716,77.25794 52.43756,198.74627 17.89793,80.35295 -4.43779,48.22933 39.81115,113.63947"
+         fill="none"
+         id="Shell Linux App-to-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="ccc" />
+      <polygon
+         fill="#181818"
+         points="439.5302,741.2131 433.9457,740.3112 442.4567,745.2672 440.4321,735.6287 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon453" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="22"
+         x="253.4967"
+         y="528.37549"
+         id="text455"
+         transform="translate(148.27858,74.665103)">use</text>
+    </g>
+    <!--link macOS App to B3 Common-->
+    <g
+       id="link_macOS App_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 235.43235,342.11623 c 0.56054,23.83337 9.11244,189.16397 36.98095,232.61652 59.16852,76.95675 106.6159,132.36165 151.5459,166.69165"
+         fill="none"
+         id="macOS App-to-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="ccc" />
+      <polygon
+         fill="#181818"
+         points="424.7538,742.0315 419.1468,742.7813 428.7267,745.0672 424.0039,736.4246 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon459" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="22"
+         x="253.4967"
+         y="611.37549"
+         id="text461"
+         transform="translate(77.81997,16.825938)">use</text>
+    </g>
+    <!--link Android OS App to B3 Common-->
+    <g
+       id="link_Android OS App_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 746.05011,423.92912 c -2.87228,35.94986 -21.01441,59.98729 -40.0148,93.41242 C 621.36365,666.69182 455.0175,660.3319 458.1675,739.2519"
+         fill="none"
+         id="Android OS App-to-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="ccc" />
+      <polygon
+         fill="#181818"
+         points="458.2073,740.2511 454.051,736.4139 458.4067,745.2472 462.0446,736.0948 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon465" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="22"
+         x="253.4967"
+         y="189.3755"
+         id="text467"
+         transform="translate(435.37116,377.00619)">use</text>
+    </g>
+    <!--link iOS App to B3 Common-->
+    <g
+       id="link_iOS App_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="M 157.11022,426.05501 C 156.32457,576.92441 324.4158,721.5387 392.0858,745.3087"
+         fill="none"
+         id="iOS App-to-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="cc" />
+      <polygon
+         fill="#181818"
+         points="393.0293,745.6401 387.9297,748.0884 397.7467,747.2972 390.581,740.5405 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon471" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="22"
+         x="253.4967"
+         y="682.37549"
+         id="text473"
+         transform="translate(23.661476,-28.393771)">use</text>
+    </g>
+    <!--link iPadOS App to B3 Common-->
+    <g
+       id="link_iPadOS App_B3 Common">
+      <path
+         d="m 817.85342,173.44712 c 0.86755,31.53764 27.84589,23.11703 46.69499,58.53542 91.51408,171.50797 -397.63122,247.34673 -399.10122,334.60673"
+         fill="none"
+         id="iPadOS App-to-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="ccc" />
+      <polygon
+         fill="#181818"
+         points="459.821,740.0779 455.8889,736.0111 459.7367,745.0772 463.8878,736.1458 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon477"
+         transform="translate(5.6093896,-172.48873)" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="22"
+         x="253.4967"
+         y="106.3755"
+         id="text479"
+         transform="translate(546.66848,294.43107)">use</text>
+    </g>
+    <!--link B7 Router to File Storage-->
+    <g
+       id="link_B7 Router_File Storage"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 114.9267,873.4672 c 2.59,124.02 19.22,699.27 106.07,850.34 114.35,198.9 445.6479,140.5299 583.6979,106.1499"
+         fill="none"
+         id="B7 Router-to-File Storage"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="805.6649,1829.7155 802.7501,1834.5635 810.5167,1828.5072 800.8169,1826.8007 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon483" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="95"
+         x="412.4967"
+         y="1814.3755"
+         id="text485"
+         transform="translate(63.27386,31.63693)">use file system</text>
+    </g>
+    <!--reverse link B7 Router to B3 Common-->
+    <g
+       id="link_B7 Router_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 173.0375,836.0439 c 62.01,-14.58 158.9692,-37.3767 224.5392,-52.7967"
+         fill="none"
+         id="B7 Router-backto-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="172.064,836.2728 175.0423,831.4634 167.1967,837.4172 176.8734,839.251 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon489" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="801.37549"
+         id="text491">reverse proxy</text>
+    </g>
+    <!--reverse link B7 Auth to B3 Common-->
+    <g
+       id="link_B7 Auth_B3 Common"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 166.9567,768.8072 c 61.16,0 162.84,0 230.65,0"
+         fill="none"
+         id="B7 Auth-backto-B3 Common"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="165.9567,768.8072 169.9567,764.8072 160.9567,768.8072 169.9567,772.8072 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon495" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="765.37549"
+         id="text497">reverse proxy</text>
+    </g>
+    <!--link B7 Auth to BE Auth-->
+    <g
+       id="link_B7 Auth_BE Auth"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 160.9667,777.5472 c 18.76,5.82 39.01,15.44 52.03,31.26 11.8,14.33 -0.91,24.71 8,41 25.66,46.88 63.52,34.99 87,83 7.75,15.85 -3.36,65.5 8,79 23.57,28.01 59.0107,36.7525 91.2207,39.4325"
+         fill="none"
+         id="B7 Auth-to-BE Auth"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="408.214,1051.3226 403.8961,1054.9771 413.1967,1051.7372 404.5594,1047.0047 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon501" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="846.37549"
+         id="text503">reverse proxy</text>
+    </g>
+    <!--link BE Auth to B7 Router-->
+    <g
+       id="link_BE Auth_B7 Router"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 413.1367,1051.6672 c -50.91,-2.23 -133.61,-12.19 -192.14,-50.86 -48.18,-31.83 -78.776,-88.0883 -94.166,-121.9283"
+         fill="none"
+         id="BE Auth-to-B7 Router"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="126.4167,877.9686 131.7137,879.9538 124.3467,873.4172 124.4315,883.2657 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon507" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="997.37549"
+         id="text509">reverse proxy</text>
+    </g>
+    <!--link B7 Router to BE User-->
+    <g
+       id="link_B7 Router_BE User"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 130.5567,873.2572 c 18.55,24.92 51.55,63.07 90.44,80.55 62.53,28.11 137.7026,27.4998 187.2626,23.1898"
+         fill="none"
+         id="B7 Router-to-BE User"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="409.2555,976.9104 405.6171,981.2419 414.2367,976.4772 404.924,973.2719 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon513" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="950.37549"
+         id="text515">reverse proxy</text>
+    </g>
+    <!--link B7 Router to BE Group-->
+    <g
+       id="link_B7 Router_BE Group"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 119.8967,873.2672 c 11.22,43.51 41.14,136.97 101.1,188.54 53.12,45.69 128.7365,61.32 181.2365,67.13"
+         fill="none"
+         id="B7 Router-to-BE Group"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="403.2271,1129.0472 398.8114,1132.5829 408.1967,1129.5972 399.6913,1124.6315 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon519" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="1058.3755"
+         id="text521">reverse proxy</text>
+    </g>
+    <!--link B7 Router to BE Lib-->
+    <g
+       id="link_B7 Router_BE Lib"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 117.5467,873.1772 c 7.94,52.36 33.72,180.57 103.45,258.63 54.44,60.94 140.7774,94.0117 193.0074,109.8217"
+         fill="none"
+         id="B7 Router-to-BE Lib"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="414.9612,1241.9186 409.9739,1244.5882 419.7467,1243.3672 412.2916,1236.9313 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon525" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="1128.3755"
+         id="text527">reverse proxy</text>
+    </g>
+    <!--link B7 Router to BE Project-->
+    <g
+       id="link_B7 Router_BE Project"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 116.0967,873.3772 c 5.23,62.35 26.35,234.67 104.9,349.43 42.49,62.09 123.0026,89.3498 179.1826,101.8198"
+         fill="none"
+         id="B7 Router-to-BE Project"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="401.1555,1324.8437 396.3838,1327.8819 406.0367,1325.9272 398.1173,1320.072 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon531" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="1219.3755"
+         id="text533">reverse proxy</text>
+    </g>
+    <!--link B7 Router to BE File-->
+    <g
+       id="link_B7 Router_BE File"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 113.7267,873.2972 c -1.23,73.18 3.92,300.73 107.27,444.51 46.03,64.04 135.7778,85.5291 190.7778,93.2191"
+         fill="none"
+         id="B7 Router-to-BE File"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="412.7649,1411.1648 408.2496,1414.5724 417.7167,1411.8572 409.3573,1406.6495 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon537" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="1314.3755"
+         id="text539">reverse proxy</text>
+    </g>
+    <!--link B7 Router to BE VCS-->
+    <g
+       id="link_B7 Router_BE VCS"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 114.5767,873.2172 c 0.85,118.98 10.05,655.91 106.42,784.59 45.84,61.22 134.2449,76.6377 189.3849,80.5277"
+         fill="none"
+         id="B7 Router-to-BE VCS"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="411.3791,1738.4053 407.1076,1742.1139 416.3667,1738.7572 407.6705,1734.1337 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon543" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="1654.3755"
+         id="text545">reverse proxy</text>
+    </g>
+    <!--link B7 Router to BE Timer-->
+    <g
+       id="link_B7 Router_BE Timer"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 116.3167,873.2372 c 7.73,94.28 40.37,445.05 104.68,532.57 44,59.89 126.7967,79.6133 182.6067,86.6133"
+         fill="none"
+         id="B7 Router-to-BE Timer"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="404.5956,1492.5449 400.1289,1496.016 409.5567,1493.1672 401.1245,1488.0782 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon549" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="1402.3755"
+         id="text551">reverse proxy</text>
+    </g>
+    <!--link B7 Router to BE Bookmark-->
+    <g
+       id="link_B7 Router_BE Bookmark"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 115.5767,873.2772 c 5.18,103.24 30.34,516.26 105.42,617.53 40.42,54.51 112.5953,74.1079 168.3053,81.7179"
+         fill="none"
+         id="B7 Router-to-BE Bookmark"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="390.2928,1572.6604 385.7882,1576.0823 395.2467,1573.3372 386.8709,1568.1559 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon555" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="1487.3755"
+         id="text557">reverse proxy</text>
+    </g>
+    <!--link B7 Router to BE Indicator-->
+    <g
+       id="link_B7 Router_BE Indicator"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 115.0167,873.3372 c 2.89,111.55 20.15,586.54 105.98,701.47 41.36,55.38 116.1595,73.7233 172.0595,80.1633"
+         fill="none"
+         id="B7 Router-to-BE Indicator"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="394.0496,1655.0849 389.6181,1658.6008 399.0167,1655.6572 390.5337,1650.6534 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon561" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="85"
+         x="221.9967"
+         y="1571.3755"
+         id="text563">reverse proxy</text>
+    </g>
+    <!--link BE Auth to User-->
+    <g
+       id="link_BE Auth_User"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 506.8867,1051.9672 c 32.55,-2.54 74.49,-11.71 98.11,-40.16 13.25,-15.96 -4.86,-76.73 8,-93 28.15,-35.61 63.99,-0.83 97,-32 13.2,-12.47 1.49,-25.87 15,-38 30.61,-27.48 72.4209,-35.7996 104.8009,-38.5096"
+         fill="none"
+         id="BE Auth-to-User"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="830.7942,810.2142 827.1417,814.5338 835.7767,809.7972 826.4745,806.5617 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon567" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="883.37549"
+         id="text569">use SQL</text>
+    </g>
+    <!--link BE Auth to Group-->
+    <g
+       id="link_BE Auth_Group"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 506.8867,1052.5672 c 30.16,0.46 70.48,1.01 106.11,1.24 43.11,0.28 53.89,0.27 97,0 40.68,-0.25 81.1707,-0.7812 113.6007,-1.2612"
+         fill="none"
+         id="BE Auth-to-Group"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="824.5973,1052.5312 820.6569,1056.5899 829.5967,1052.4572 820.5385,1048.5908 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon573" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1050.3755"
+         id="text575">use SQL</text>
+    </g>
+    <!--link BE Auth to Permission-->
+    <g
+       id="link_BE Auth_Permission"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 506.9467,1050.6672 c 31.72,-3.25 81.72573,2.8004 107.16573,-23.3096 10.23,-10.5 3.78218,-27.87089 13.36218,-38.97089 47.1028,-12.23258 29.56527,-5.73696 70.72527,-27.66696 7.07,-3.77 47.39022,-20.07548 54.68022,-23.40548 28.12,-12.83 27.5077,-28.46637 55.0377,-34.97637"
+         fill="none"
+         id="BE Auth-to-Permission"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="cccccc" />
+      <polygon
+         fill="#181818"
+         points="808.8909,902.1078 805.9188,906.9209 813.7567,900.9572 804.0778,899.1356 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon579" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="936.37549"
+         id="text581">use SQL</text>
+    </g>
+    <!--link BE Auth to GroupedUser-->
+    <g
+       id="link_BE Auth_GroupedUser"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 506.9267,1052.2972 c 32.79,-2.34 54.10745,-14.1011 77.15745,-43.1711 13.47,-16.99 16.13633,-184.07084 28.37633,-201.97084 7.67,-11.21 99.73622,-34.81806 112.53622,-39.34806 26.05,-9.23 49.5385,-16.1098 74.9785,-22.8198"
+         fill="none"
+         id="BE Auth-to-GroupedUser"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="ccccc" />
+      <polygon
+         fill="#181818"
+         points="800.9421,744.7323 798.0945,749.6202 805.7767,743.4572 796.0542,741.8848 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon585" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="770.37549"
+         id="text587">use SQL</text>
+    </g>
+    <!--link BE Auth to GroupPermission-->
+    <g
+       id="link_BE Auth_GroupPermission"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 506.7767,1060.8672 c 69.08,13.66 194.9741,38.5657 279.5041,55.2857"
+         fill="none"
+         id="BE Auth-to-GroupPermission"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7" />
+      <polygon
+         fill="#181818"
+         points="787.2618,1116.347 782.5616,1119.4948 792.1667,1117.3172 784.114,1111.6468 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon591" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1079.3755"
+         id="text593">use SQL</text>
+    </g>
+    <!--link BE Auth to UserSession-->
+    <g
+       id="link_BE Auth_UserSession"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 506.7767,1042.7472 c 74.09,-14.65 214.4141,-42.4055 297.1041,-58.7655"
+         fill="none"
+         id="BE Auth-to-UserSession"
+         style="stroke:#181818;stroke-width:1" />
+      <polygon
+         fill="#181818"
+         points="804.8618,983.7876 801.7142,988.4879 809.7667,982.8172 800.1615,980.64 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon597" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1001.3755"
+         id="text599">use SQL</text>
+    </g>
+    <!--link BE User to User-->
+    <g
+       id="link_BE User_User"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 505.9967,958.0472 c 33.44,-12.04 59.25477,-39.02219 81.30477,-74.60219 8.27,-13.34 1.41597,-118.9594 12.82597,-129.7394 31.34,-29.61 71.53926,-25.62841 109.86926,-5.89841 10.2,5.25 5.59,14.43 15,21 33.19,23.17 73.3609,32.1603 104.7209,36.2703"
+         fill="none"
+         id="BE User-to-User"
+         style="stroke:#181818;stroke-width:1"
+         sodipodi:nodetypes="cccccc" />
+      <polygon
+         fill="#181818"
+         points="830.7091,805.2074 826.2233,808.6537 835.6667,805.8572 827.2628,800.7216 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon603" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="726.37549"
+         id="text605">use SQL</text>
+    </g>
+    <!--link BE User to GroupedUser-->
+    <g
+       id="link_BE User_GroupedUser"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 505.7867,958.2572 c 33.56,-11.97 44.61063,-45.39682 66.50063,-81.24682 10.67,-17.46 -1.95403,-134.45954 12.82597,-148.60954 55.27,-52.92 173.4968,-51.07964 231.3668,-26.61964"
+         fill="none"
+         id="BE User-to-GroupedUser"
+         style="stroke:#181818;stroke-width:1"
+         sodipodi:nodetypes="cccc" />
+      <polygon
+         fill="#181818"
+         points="817.4012,702.1705 812.1595,704.2977 822.0067,704.1172 815.2741,696.9289 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon609" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="671.37549"
+         id="text611">use SQL</text>
+    </g>
+    <!--link BE User to Group-->
+    <g
+       id="link_BE User_Group"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 505.7867,955.6872 c 32,-12.99 67.83159,-27.25293 93.31159,-59.37293 7.78,-9.81 3.86841,-27.01707 13.89841,-34.50707 34.54,-25.79 65.04,-28.93 97,0 24.84,22.48 -6.61,124.4 15,150 25.43,30.13 65.2598,38.3178 98.6998,40.2278"
+         fill="none"
+         id="BE User-to-Group"
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:7, 7"
+         sodipodi:nodetypes="cccccc" />
+      <polygon
+         fill="#181818"
+         points="824.6949,1052.092 820.4733,1055.8574 829.6867,1052.3772 820.9295,1047.8705 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon615" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="838.37549"
+         id="text617">use SQL</text>
+    </g>
+    <!--link BE Group to Group-->
+    <g
+       id="link_BE Group_Group"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 511.9867,1145.7972 c 53.93,10.63 139.18,18.24 198.01,-20.99 13.4,-8.94 2.74,-22.54 15,-33 29.3,-24.99 66.9668,-33.8068 98.7968,-37.3468"
+         fill="none"
+         id="BE Group-to-Group"
+         style="stroke:#181818;stroke-width:1" />
+      <polygon
+         fill="#181818"
+         points="824.7874,1054.3498 821.254,1058.7675 829.7567,1053.7972 820.3698,1050.8165 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon621" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1121.3755"
+         id="text623">use SQL</text>
+    </g>
+    <!--link BE Group to GroupPermission-->
+    <g
+       id="link_BE Group_GroupPermission"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 511.9967,1155.8672 c 29,14.52 38.18904,3.9193 66.18904,27.8393 4.33,3.7 38.79669,18.7906 43.92669,21.2606 38.86,18.68 50.91402,6.5916 92.17402,-5.8984 7.67,-2.32 24.25658,-6.3462 31.08658,-10.5362 33.48,-20.56 46.64107,-13.1636 75.75107,-29.1036"
+         fill="none"
+         id="BE Group-to-GroupPermission"
+         style="stroke:#181818;stroke-width:1"
+         sodipodi:nodetypes="cccccc" />
+      <polygon
+         fill="#181818"
+         points="822.0012,1158.9486 820.4139,1164.3782 826.3867,1156.5472 816.5716,1157.3613 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon627" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1221.3755"
+         id="text629"
+         transform="translate(-1.6086575,-23.593643)">use SQL</text>
+    </g>
+    <!--link BE Lib to Lib-->
+    <g
+       id="link_BE Lib_Lib"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 500.3367,1256.4472 c 30.68,1.92 74.36,4.35 112.66,5.36 43.1,1.13 53.9,1.07 97,0 45.88,-1.14 93.0814,-3.7513 125.2414,-5.7313"
+         fill="none"
+         id="BE Lib-to-Lib"
+         style="stroke:#181818;stroke-width:1" />
+      <polygon
+         fill="#181818"
+         points="836.2362,1256.0144 832.4896,1260.2527 841.2267,1255.7072 831.998,1252.2678 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon633" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1258.3755"
+         id="text635">use SQL</text>
+    </g>
+    <!--link BE Project to Project-->
+    <g
+       id="link_BE Project_Project"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 513.6967,1334.8072 c 81.97,0 232.45,0 307.95,0"
+         fill="none"
+         id="BE Project-to-Project"
+         style="stroke:#181818;stroke-width:1" />
+      <polygon
+         fill="#181818"
+         points="822.6467,1334.8072 818.6467,1338.8072 827.6467,1334.8072 818.6467,1330.8072 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon639" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1331.3755"
+         id="text641">use SQL</text>
+    </g>
+    <!--link BE File to File-->
+    <g
+       id="link_BE File_File"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 502.1367,1415.8072 c 81.94,0 257.92,0 331.04,0"
+         fill="none"
+         id="BE File-to-File"
+         style="stroke:#181818;stroke-width:1" />
+      <polygon
+         fill="#181818"
+         points="834.1767,1415.8072 830.1767,1419.8072 839.1767,1415.8072 830.1767,1411.8072 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon645" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1412.3755"
+         id="text647">use SQL</text>
+    </g>
+    <!--link BE Timer to Timer-->
+    <g
+       id="link_BE Timer_Timer"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 510.3967,1496.8072 c 82.21,0 239.51,0 314.62,0"
+         fill="none"
+         id="BE Timer-to-Timer"
+         style="stroke:#181818;stroke-width:1" />
+      <polygon
+         fill="#181818"
+         points="826.0167,1496.8072 822.0167,1500.8072 831.0167,1496.8072 822.0167,1492.8072 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon651" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1493.3755"
+         id="text653">use SQL</text>
+    </g>
+    <!--link BE Bookmark to Bookmark-->
+    <g
+       id="link_BE Bookmark_Bookmark"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 524.9767,1577.8072 c 80.31,0 210.61,0 285.77,0"
+         fill="none"
+         id="BE Bookmark-to-Bookmark"
+         style="stroke:#181818;stroke-width:1" />
+      <polygon
+         fill="#181818"
+         points="811.7467,1577.8072 807.7467,1581.8072 816.7467,1577.8072 807.7467,1573.8072 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon657" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1574.3755"
+         id="text659">use SQL</text>
+    </g>
+    <!--link BE Indicator to Indicator-->
+    <g
+       id="link_BE Indicator_Indicator"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 520.9767,1658.8072 c 81.09,0 218.19,0 293.68,0"
+         fill="none"
+         id="BE Indicator-to-Indicator"
+         style="stroke:#181818;stroke-width:1" />
+      <polygon
+         fill="#181818"
+         points="815.6567,1658.8072 811.6567,1662.8072 820.6567,1658.8072 811.6567,1654.8072 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon663" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="50"
+         x="636.4967"
+         y="1655.3755"
+         id="text665">use SQL</text>
+    </g>
+    <!--link BE VCS to File Storage-->
+    <g
+       id="link_BE VCS_File Storage"
+       transform="translate(5.6093896,-172.48873)">
+      <path
+         d="m 503.6567,1747.3072 c 73.34,12.9 217.5607,38.2512 301.2407,52.9612"
+         fill="none"
+         id="BE VCS-to-File Storage"
+         style="stroke:#181818;stroke-width:1" />
+      <polygon
+         fill="#181818"
+         points="805.8823,1800.4415 801.2501,1803.6886 810.8067,1801.3072 802.6352,1795.8094 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon669" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="95"
+         x="613.9967"
+         y="1764.3755"
+         id="text671"
+         transform="translate(17.695232,-5.3621915)">use file system</text>
+    </g>
+    <!--SRC=[bPJ9Rjim48RlV0eYESUN7We4HG3RS8m0Jkj6JOiYo84MQPkrH0eKbTWeykwbg8MB94gzpdmSplBF96GleUHGqCDHGam5YINb380uuGM6Vm64Bx_83iwpx1LU_oP9mj-rZJBCt_FQlhmWLbhNpmzmGrbnhksRCcg4afHhTtHKxqD0Yk9laUrQymGJziIn-PcE4rk4Hw4vmu9J33rG4CB01m1xWL82hvvu8IaxmDq5VZrGThxI7Obvcd56c8GlYqzmoLELlegW7xS_sD1dE2_aSGGf_oB2WqmgppaHy14nT21f-UIHne8hsnkDITxDQzLygUkg1-G2PSGWi1Qyo1p2fBFaJEeq_YEZ3Tq5_ziA_aVfByZSquG4WP_BAEZ_GTEHiXUSdr8aJa7eWM4Q8yc5tn-C9DgXNBNeTAHPKVLXO8Oh9gcaJREKAksHB9A2L5Pd3iQy9IAbUKwr-3nV6IWY0quTB_HQ0mJtPFDXYkbHGASUQ-9MtkwOZSEUhR4w0pDcVqh6qnbDcxiQ3-DOvLx-1ADBBadQ4MhbKyzLLQ_b4tC0PxCxP-LlOP4Ju1x30SOxZGDKvq8ESDQX723y-pQ0qJ6_TKlx4M3VBequ3Qmek2zjkMwu- -BBREO55UID2FKa4_nygU3gb8sXXgmoRKvWbrivd4ccztEdjlPizdtka_NUJeggDsLAq7Pxfi3LHaqXzTcS0jRhE0KrApg5jjQsfsFEo9eHbCgAlczyTzlt0Rzz-i91cXiOfiRYtTpSUHVPKC18giNyA9Oxa5Lbwsy0iEHeulWHEa1_OQ3LgoPhvTg1Mergm5Ai3LNQr4GZKzjTwqpxMytPW56NPconsPWbAyqvCdDAqYlGvXEwOFy0]-->
+  </g>
+</svg>
