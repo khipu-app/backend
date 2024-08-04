@@ -12,3 +12,311 @@ info:
 
 servers:
   - url: https://api.khipu.app/v1
+
+components:
+  securitySchemes:
+    JWT:
+      type: apiKey
+      in: header
+      name: Authorization
+      description: JWT-token in the format **<token>**
+  schemas:
+    confirmation:
+      type: object
+      properties:
+        time:
+          description: POSIX formatted time (in seconds)
+          type: integer
+          format: int64
+        url:
+          description: internal server URL of a request (absolute path)
+          type: string
+          maxLength: 1024
+        ip:
+          description: user client IP address
+          type: string
+        code:
+          description: code of confirmation
+          type: integer
+          format: int64
+        description:
+          description: human readable error description
+          type: string
+          maxLength: 4096
+        link:
+          description: link to documentation with error detailed description
+          type: string
+          maxLength: 4096
+    error:
+      type: object
+      properties:
+        time:
+          description: POSIX formatted time (in seconds)
+          type: integer
+          format: int64
+        url:
+          description: internal server URL of a request (absolute path)
+          type: string
+          maxLength: 1024
+        ip:
+          description: user client IP address
+          type: string
+        code:
+          description: code of error
+          type: integer
+          format: int64
+        description:
+          description: human readable error description
+          type: string
+          maxLength: 4096
+        link:
+          description: link to documentation with error detailed description
+          type: string
+          maxLength: 4096
+    credentials:
+      type: object
+      properties:
+        email:
+          description: user's email
+          type: string
+        pass:
+          description: user's password
+          type: string
+    session:
+      type: object
+      properties:
+        id:
+          description: session ID
+          type: integer
+          format: int64
+          minimum: 1
+        token:
+          description: token of user's session
+          type: string
+          maxLength: 1024
+        duration:
+          description: POSIX formatted time (in seconds)
+          type: integer
+          format: int64
+          minimum: 60
+        expired:
+          description: POSIX formatted date and time (in seconds)
+          type: integer
+          format: int64
+          minimum: 0
+    request:
+      type: object
+      properties:
+        time:
+          description: POSIX formatted time (in seconds)
+          type: integer
+          format: int64
+        url:
+          description: internal server URL of a request (absolute path)
+          type: string
+          maxLength: 1024
+    permission:
+      description: a single permission for an operation
+      type: object
+      properties:
+        operation:
+          type: string
+        granted:
+          type: boolean
+    userPermissions:
+      description: a list of permissions by user group
+      type: object
+      additionalProperties:
+        type: array
+        items:
+          type: object
+          $ref: '#/components/schemas/permission'
+
+paths:        
+  /auth:
+    description: User authentication
+    options:
+      description: Passing of CORS policy
+      responses:
+        '200':
+          description: OK
+    get:
+      description: Getting user's session validating result
+      security:
+        - JWT: []
+      requestBody:
+        description: Permissions payload
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/request'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                $ref: '#/components/schemas/userPermissions'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '401':
+          description: Unauthorized
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '403':
+          description: Forbidden
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '429':
+          description: Too Many Requests
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+    post:
+      description: Creating a user's session
+      requestBody:
+        description: Authentication payload
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/credentials'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/session'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '403':
+          description: Forbidden
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '429':
+          description: Too Many Requests
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+    patch:
+      description: Updating a user's session token due to security reason
+      security:
+        - JWT: []
+      requestBody:
+        description: Credentials payload
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/credentials'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                $ref: '#/components/schemas/confirmation'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '401':
+          description: Unauthorized
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '403':
+          description: Forbidden
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '429':
+          description: Too Many Requests
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+    delete:
+      description: Delete current user's session
+      security:
+        - JWT: []
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                $ref: '#/components/schemas/confirmation'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '401':
+          description: Unauthorized
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '403':
+          description: Forbidden
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '429':
+          description: Too Many Requests
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/error'
